@@ -7,13 +7,15 @@
 </div>
 
 ## 🚀 About Me
-I am an undergraduate Software Engineering student currently pursuing my BSc (Hons) in Software Engineering at Cardiff Metropolitan University, having already completed my Higher Diploma in Computing and Software Engineering.
+I am a Software Engineering undergraduate who has successfully completed my BSc (Hons) in Software Engineering at Cardiff Metropolitan University and am currently awaiting my final results. I also hold a Higher Diploma in Computing and Software Engineering.
 
-💻 My technical skills span across Web and Mobile Application Development, Database Design and Development, Object-Oriented Programming (OOP), Data Structures and Algorithms, and Service-Oriented Programming. I am passionate about building efficient, scalable, and user-friendly software solutions.
+💻 I have developed strong technical skills in Advanced Programming, Web and Mobile Application Development, Database Design and Development, Object-Oriented Programming (OOP), Data Structures and Algorithms, and Service-Oriented Programming. My academic experience also includes Computational Intelligence, Analytics and Business Intelligence, and Professional and Ethical Issues in IT.
 
-📊 In addition to my technical background, I have an interest in Business Analytics, allowing me to analyze data-driven insights and bridge the gap between technology and strategic decision-making.
+🚀 Through my Development Project and coursework, I have gained hands-on experience in designing and building efficient, scalable, and user-friendly software solutions.
 
-🚀 I am always eager to learn, collaborate, and take on new challenges. Whether it's working on innovative projects, internships, or tech-driven initiatives, I am excited to contribute and grow in the field of software engineering.
+📊 I also have a growing interest in Business Analytics, enabling me to work with data-driven insights and bridge the gap between technology and strategic decision-making.
+
+✨ I am passionate about continuous learning and am actively seeking opportunities to apply my skills in real-world projects, internships, and graduate roles.
 
 ---
 
