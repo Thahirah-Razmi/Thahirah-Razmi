@@ -7,15 +7,19 @@
 </div>
 
 ## 🚀 About Me
-I am a Software Engineering undergraduate who has successfully completed my BSc (Hons) in Software Engineering at Cardiff Metropolitan University and am currently awaiting my final results. I also hold a Higher Diploma in Computing and Software Engineering.
+I am a Software Engineering undergraduate who has successfully completed my BSc (Hons) in Software Engineering at Cardiff Metropolitan University with First Class Honors. I also hold a Higher Diploma in Computing and Software Engineering with Distinction.
 
-💻 I have developed strong technical skills in Advanced Programming, Web and Mobile Application Development, Database Design and Development, Object-Oriented Programming (OOP), Data Structures and Algorithms, and Service-Oriented Programming. My academic experience also includes Computational Intelligence, Analytics and Business Intelligence, and Professional and Ethical Issues in IT.
+💻 Throughout my academic journey, I have built a strong foundation in Advanced Programming, Web and Mobile Application Development, Database Design, Object-Oriented Programming (OOP), Data Structures and Algorithms, and Service-Oriented Programming. My coursework also includes key areas such as Computational Intelligence, Analytics and Business Intelligence, and Professional and Ethical Issues in IT.
 
-🚀 Through my Development Project and coursework, I have gained hands-on experience in designing and building efficient, scalable, and user-friendly software solutions.
+🚀 My final Development Project further strengthened my ability to design and implement practical, scalable, and user-focused software solutions.
 
-📊 I also have a growing interest in Business Analytics, enabling me to work with data-driven insights and bridge the gap between technology and strategic decision-making.
+📊 Alongside my technical expertise, I have a keen interest in Business Analytics, enabling me to work with data-driven insights and connect technology with strategic decision-making.
 
-✨ I am passionate about continuous learning and am actively seeking opportunities to apply my skills in real-world projects, internships, and graduate roles.
+🏆 Graduating with First Class Honors reflects my dedication, perseverance, and commitment to academic excellence. Beyond academics, I continuously expand my knowledge through professional certifications, personal projects, and hands-on learning experiences.
+
+✨ I am passionate about continuous learning and growth, and I am actively seeking opportunities to apply my skills in real-world environments—whether through internships, graduate roles, or collaborative tech projects.
+
+Let’s connect and build something impactful!
 
 ---
 
